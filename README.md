@@ -43,11 +43,6 @@ The repository is structured to reflect the complete development lifecycle, from
 
 ---
 
-## 👨‍💻 About the Author
-**Anchal Kumar Chaubey**
-* **Role**: Avionics Engineer (Incoming at Skyroot Aerospace, June 2026).
-* **Education**: M.Tech Graduate specialized in Embedded Systems and Hardware-Software Co-Design.
-* **Focus**: High-speed communication protocols, FPGA acceleration, and ML optimization for resource-constrained aerospace hardware.
 
 ---
 
